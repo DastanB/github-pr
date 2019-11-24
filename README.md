@@ -11,3 +11,5 @@
 ## Feature 4
 
 ## Feature 5
+
+## Test bash settings
